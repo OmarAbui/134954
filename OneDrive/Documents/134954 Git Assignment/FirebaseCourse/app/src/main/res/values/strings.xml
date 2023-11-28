@@ -2,7 +2,7 @@
     <string name="app_name">FirebaseCourse</string>
 
     <!--API KEY Below-->
-    <string name="google_maps_key">AIzaSyDVdRU6Qo-YQTNbDVDON6K5F0F8b2picTY</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
     <string-array name="filter_options">
         <item>Date</item>
         <item>Running Time</item>

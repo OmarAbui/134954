@@ -134,7 +134,7 @@ class FitnessAssistant : AppCompatActivity() {
 
                 //Content format
                 map.put("Content-Type", "application/json")
-                map.put("Authorization", "Bearer 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")
+                map.put("Authorization", "Bearer API_KEY")
                 return map
             }
         }
